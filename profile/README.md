@@ -2,6 +2,8 @@
 
 ### Welcome to KayleAI's GitHub!👋
 
+Documentation for KayleAI is available [here](https://docs.kayle.ai)!
+
 Looking for help? [Try our Help Page](https://help.kayle.ai)
 
 ## Contact Us
