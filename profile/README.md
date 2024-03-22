@@ -1,8 +1,8 @@
-# KayleAI
+# Kayle
 
-### Welcome to KayleAI's GitHub!👋
+### Welcome to Kayle's GitHub!👋
 
-Documentation for KayleAI is available [here](https://docs.kayle.ai)!
+Documentation for Kayle is available [here](https://docs.kayle.ai)!
 
 Looking for help? [Try our Help Page](https://help.kayle.ai)
 
@@ -10,4 +10,4 @@ Looking for help? [Try our Help Page](https://help.kayle.ai)
 
 support@kayle.ai
 
-<sub>Copyright © 2023 The KayleAI Project. All rights reserved.</sub>
+<sub>Copyright © 2024 Kayle. All rights reserved.</sub>
