@@ -2,9 +2,9 @@
 
 ### Welcome to Kayle's GitHub!👋
 
-Documentation for Kayle is available [here](https://docs.kayle.ai)!
+Documentation for Kayle is available [here](https://kayle.ai/docs)!
 
-Looking for help? [Try our Help Page](https://help.kayle.ai)
+Looking for help? [Try our Help Page](https://kayle.ai/help)
 
 ## Contact Us
 
