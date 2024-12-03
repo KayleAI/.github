@@ -8,6 +8,6 @@ Looking for help? [Try our Help Page](https://kayle.ai/help)
 
 ## Contact Us
 
-support@kayle.ai
+help@kayle.ai
 
-<sub>Copyright © 2024 Kayle. All rights reserved.</sub>
+<sub>Copyright © 2024 Kayle Inc. All rights reserved.</sub>
