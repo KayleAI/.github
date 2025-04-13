@@ -1,13 +1,16 @@
 # Kayle
 
-### Welcome to Kayle's GitHub!👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b6e49b0c-de6f-45fd-8bdb-5318b4a3b5ec">
+  <img src="https://github.com/user-attachments/assets/16466f0d-323e-439d-ac9c-5987571e649b" alt="Kayle banner" width="100%" height="100%" align="left">
+</picture>
 
-Documentation for Kayle is available [here](https://kayle.ai/docs)!
+<br clear="all" />
 
-Looking for help? [Try our Help Page](https://kayle.ai/help)
+### We build Agents for Content Moderation.
 
-## Contact Us
+Looking for help? [Visit our help page](https://kayle.ai/help)
 
-care@kayle.ai
+Contact us at care@kayle.ai.
 
-<sub>Copyright © 2024 Kayle Inc. All rights reserved.</sub>
+<sub>Copyright © 2025 Kayle Inc. All rights reserved.</sub>
